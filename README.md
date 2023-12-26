@@ -1,1 +1,1 @@
-# binary-search-tree
+A balanced binary search tree in JavaScript.
